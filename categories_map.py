@@ -65,7 +65,6 @@ CMSSW_CATEGORIES={
    "Utilities/StorageFactory",
    "Utilities/Testing", "Utilities/Timing",
    "Utilities/XrdAdaptor",
-   "Utilities/PPS",
    "Validation/Tools"
  ],
  "docs": [
@@ -1392,6 +1391,7 @@ CMSSW_CATEGORIES={
    "SLHCUpgradeSimulations/Configuration",
    "TauAnalysis/MCEmbeddingTools",
    "TrackPropagation/Geant4e",
+   "Utilities/PPS",
    "Validation/Configuration",
    "SLHCUpgradeSimulations/L1CaloTrigger"],
    "upgrade": [
